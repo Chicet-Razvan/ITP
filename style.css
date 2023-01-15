@@ -767,6 +767,13 @@ text-align: center;
 
     .section-2 {
         height: 110vh;
+        padding: 1rem;
+    }
+
+    .citat {
+        display: flex;
+        flex-direction: column;
+        text-align: center;
     }
 
     .s2-content {
@@ -831,6 +838,7 @@ text-align: center;
        
         border-bottom: 1px solid rgb(187, 186, 186);
         height: 33vh;
+        flex-direction: column;
     }
 
     .section-4 p:nth-child(2) {
