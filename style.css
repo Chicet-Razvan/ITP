@@ -953,6 +953,15 @@ text-align: center;
     .background-s2 {
         display: none;
     }
+    
+    .citat {
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        width: 80vw;
+        border: none;
+    }
+
 
     .container .container-recomanda {
         display: flex;
